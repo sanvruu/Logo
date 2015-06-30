@@ -1,5 +1,5 @@
 ##Secondary Heading
 ###Tertiary Heading
-*Europe
-*Alaska
-*England
+* Europe
+* Alaska
+* England
